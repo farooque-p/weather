@@ -1,0 +1,18 @@
+============================
+Weather API
+cosmicweb.ngp@gmail.com
+============================
+Packages:
+(1) React Navigation:
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+(2) Tailwind
+npm install nativewind
+npm install --dev tailwindcss
+(3) Add in tailwind.config.js
+  content: [
+    "./App.{js,jsx,ts,tsx}", 
+    "./screens/**/*.{js,jsx,ts,tsx}",
+    "./components/**/*.{js,jsx,ts,tsx}"
+  ],
