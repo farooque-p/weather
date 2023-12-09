@@ -1,6 +1,5 @@
 ============================
 Weather API
-cosmicweb.ngp@gmail.com
 ============================
 Packages:
 (1) React Navigation:
